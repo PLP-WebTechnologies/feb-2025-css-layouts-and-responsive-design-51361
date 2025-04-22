@@ -24,3 +24,40 @@ Ensure proper alignment and spacing.
 - Test across different screen sizes.
 
 Happy Coding! 💻✨
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>Responsive Flexbox Layout</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>ANSWER</header>
+  <main class="container">
+    <aside class="sidebar">Sidebar</aside>
+    <section class="content">Main Content</section>
+  </main>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
